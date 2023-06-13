@@ -1,4 +1,4 @@
-# RabbitMQ Readme
+# RabbitMQ
 
 Welcome to RabbitMQ! This README provides an introduction to RabbitMQ and highlights its key features.
 
