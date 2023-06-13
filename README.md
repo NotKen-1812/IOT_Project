@@ -41,3 +41,9 @@ For further information and detailed documentation, refer to the following resou
 - [RabbitMQ Official Website](https://www.rabbitmq.com/)
 - [RabbitMQ Documentation](https://www.rabbitmq.com/documentation.html)
 - [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
+
+## Link for my demos
+
+https://www.youtube.com/watch?v=w20B-IyXcRk&list=PLz5UqdKg6YpsV1xICB5qvzlfERLrypNi8
+
+Thank you for watching.
